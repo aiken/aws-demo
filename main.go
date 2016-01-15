@@ -21,5 +21,5 @@ func handleMainPage(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	fmt.Fprintf(w, "Hello World, xiaoguo\n")
+	fmt.Fprintf(w, "Hello World, Aiken\n")
 }
